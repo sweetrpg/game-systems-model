@@ -5,8 +5,8 @@ working in this repository.
 
 ## About This Project
 
-`gamesystems-model` was a Swift shared-model library for game systems (ruleset/edition, name,
-publisher reference, metadata). Its Swift package contents were retired when `gamesystems-api`
+`game-systems-model` was a Swift shared-model library for game systems (ruleset/edition, name,
+publisher reference, metadata). Its Swift package contents were retired when `game-systems-api`
 was rebuilt as a Go service that owns its own models directly rather than sharing a library - see
 `sweetrpg/platform`'s `openspec/changes/game-systems-service`.
 
